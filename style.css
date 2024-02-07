@@ -1,0 +1,297 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: -733px;
+    gap: 90px;
+}
+.header .vectorimg{
+    width: 140px;
+height: 30.49px;
+top: 35px;
+left: 150px;
+
+}
+.header ul{
+    display: flex;
+    text-align: center;
+    gap: 55px;
+}
+.home2 button{
+    width: 175px;
+    margin-top: 50px;
+}
+
+.header button{
+    width: 130px;
+height: 50px;
+top: 25px;
+left: 1160px;
+border-radius: 10px;
+background: rgba(255, 255, 255, 1);
+box-shadow: 0px 1px 8px 0px rgba(0, 0, 0, 0.15);
+
+}
+/* .header button .left{
+    position: relative;
+    top: 5px;
+} */
+
+/* home page property
+ */
+ .homepage h1{
+    width: 560px;
+height: 128px;
+top: 233px;
+left: 150px;
+color: rgba(0, 0, 0, 0.5);
+
+font-family: Urbanist;
+font-size: 48px;
+font-weight: 700;
+line-height: 64px;
+letter-spacing: 0em;
+text-align: left;
+
+
+ }
+ .homepage p{
+    width: 470px;
+height: 92px;
+top: 401px;
+left: 150px;
+
+font-family: Urbanist;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+colgroup: rgba(0, 0, 0, 0.4);
+
+ }
+ .homepage{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    bottom: 550px;
+ }
+ .howitwork h2{
+    width: 1171px;
+height: 88px;
+top: 779px;
+left: 135px;
+color: rgba(0, 0, 0, 0.5);
+;
+font-family: Urbanist;
+font-size: 64px;
+font-weight: 700;
+line-height: 88px;
+letter-spacing: 0em;
+text-align: center;
+margin-left: 250px;
+margin-top: -432px;
+
+
+ }
+ .how1{
+    width: 320px;
+height: 381px;
+top: 912px;
+left: 150px;
+margin-left: 100px;
+
+ }
+ .how1 .group{
+    width: 80px;
+
+border-radius: 800px;    width: 80px;
+height: 80px;
+top: 941px;
+left: 270px;
+border-radius: 800px;
+position: relative;
+top: -22px;
+left: 97px;
+
+ }
+ .how1 h1{
+    margin-bottom: 30px;
+    width: 270.25px;
+height: 32px;
+top: 1045px;
+left: 175px;
+color: rgba(0, 0, 0, 0.5);
+
+font-family: Urbanist;
+font-size: 24px;
+font-weight: 700;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: center;
+
+
+ }
+ .how1 p{
+    width: 270px;
+height: 95px;
+top: 1087px;
+left: 175px;
+color: rgba(0, 0, 0, 0.4);
+
+font-family: Urbanist;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+
+ }
+ .how1 .text{
+    width: 102.5px;
+height: 16px;
+top: 1247px;
+left: 259px;
+gap: 10px;
+margin-top: 70px;
+margin-left: 84px;
+
+ }
+ .how2{
+    width: 320px;
+height: 381px;
+top: 912px;
+left: 150px;
+margin-left: 100px;
+
+ }
+ .how2 .group{
+    width: 80px;
+
+border-radius: 800px;    width: 80px;
+height: 80px;
+top: 941px;
+left: 270px;
+border-radius: 800px;
+position: relative;
+top: -22px;
+left: 97px;
+
+ }
+ .how2 h1{
+    margin-bottom: 30px;
+    width: 270.25px;
+height: 32px;
+top: 1045px;
+left: 175px;
+color: rgba(0, 0, 0, 0.5);
+
+font-family: Urbanist;
+font-size: 24px;
+font-weight: 700;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: center;
+
+
+ }
+ .how2 p{
+    width: 270px;
+height: 95px;
+top: 1087px;
+left: 175px;
+color: rgba(0, 0, 0, 0.4);
+
+font-family: Urbanist;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+
+ }
+ .how2 .text{
+    width: 102.5px;
+height: 16px;
+top: 1247px;
+left: 259px;
+gap: 10px;
+margin-top: 70px;
+margin-left: 84px;
+
+ }
+
+ .how3{
+    width: 320px;
+height: 381px;
+top: 912px;
+left: 150px;
+margin-left: 100px;
+
+ }
+ .how3 .group{
+    width: 80px;
+
+border-radius: 800px;    width: 80px;
+height: 80px;
+top: 941px;
+left: 270px;
+border-radius: 800px;
+position: relative;
+top: -22px;
+left: 97px;
+
+ }
+ .how3 h1{
+    margin-bottom: 30px;
+    width: 270.25px;
+height: 32px;
+top: 1045px;
+left: 175px;
+color: rgba(0, 0, 0, 0.5);
+
+font-family: Urbanist;
+font-size: 24px;
+font-weight: 700;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: center;
+
+
+ }
+ .how3 p{
+    width: 270px;
+height: 95px;
+top: 1087px;
+left: 175px;
+color: rgba(0, 0, 0, 0.4);
+
+font-family: Urbanist;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+
+ }
+ .how3 .text{
+    width: 102.5px;
+height: 16px;
+top: 1247px;
+left: 259px;
+gap: 10px;
+margin-top: 70px;
+margin-left: 84px;
+
+ }
+ .howmain{
+    display: flex;
+    justify-content: space-around;
+margin-top: 80px;
+margin-right: 60px;
+ }
